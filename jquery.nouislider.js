@@ -16,6 +16,8 @@
 (function( $ ){
 
 	'use strict';
+	
+	
 
 	var
 	// Cache the document selector;
