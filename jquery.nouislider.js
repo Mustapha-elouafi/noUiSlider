@@ -532,7 +532,7 @@
 
 			this.el = document.createElement('input');
 			this.el.name = target;
-			this.el.type = 'hidden';
+			this.el.type = 'text';
 
 			return;
 		}
